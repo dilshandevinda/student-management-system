@@ -1,0 +1,136 @@
+[
+    {
+      "Time": "08.30-10.30",
+      "Day": "MONDAY",
+      "Subject Code": "ICT 4203",
+      "Subject Name": "Software Engineering",
+      "Type": "T",
+      "Hall/Location": "S 305",
+      "Lecturer": "Ms. Prasadini Padmasiri"
+    },
+    {
+      "Time": "13.30-15.30",
+      "Day": "MONDAY",
+      "Subject Code": "ICT 4207",
+      "Subject Name": "Artificial Intelligence",
+      "Type": "T",
+      "Hall/Location": "Online",
+      "Lecturer": "Ms. Malki Sandamini"
+    },
+
+
+
+
+
+    {
+      "Time": "10.30-12.30",
+      "Day": "TUESDAY",
+      "Subject Code": "ICT 4202",
+      "Subject Name": "Internet Applications",
+      "Type": "T",
+      "Hall/Location": "S305",
+      "Lecturer": "Ms. Madhavi Karunadasa"
+    },
+    {
+      "Time": "13.30-15.30",
+      "Day": "TUESDAY",
+      "Subject Code": "ICT 4301 (Group 1)",
+      "Subject Name": "Mobile Computing",
+      "Type": "P",
+      "Hall/Location": "ICT L",
+      "Lecturer": "Ms. Udani Jayakody"
+    },
+
+
+
+
+
+
+    {
+      "Time": "08.30-10.30",
+      "Day": "WEDNESDAY",
+      "Subject Code": "ICT 4301 (Group 2)",
+      "Subject Name": "Mobile Computing",
+      "Type": "P",
+      "Hall/Location": "ICT L",
+      "Lecturer": "Ms. Udani Jayakody"
+    },
+
+    {
+      "Time": "10.30-12.30",
+      "Day": "WEDNESDAY",
+      "Subject Code": "ICT 4210",
+      "Subject Name": "Digital Image Processing",
+      "Type": "P",
+      "Hall/Location": "ICT L",
+      "Lecturer": "Mr. Wiraj Wickramaarachchi"
+    },
+    
+    {
+      "Time": "13.30-16.30",
+      "Day": "WEDNESDAY",
+      "Subject Code": "ICT 4301",
+      "Subject Name": "Mobile Computing",
+      "Type": "T",
+      "Hall/Location": "S 201",
+      "Lecturer": "Ms. Udani Jayakody"
+    },
+    
+
+
+
+
+
+    {
+      "Time": "08.30-10.30",
+      "Day": "THURSDAY",
+      "Subject Code": "ICT 4306",
+      "Subject Name": "Data Science",
+      "Type": "P",
+      "Hall/Location": "ICT L",
+      "Lecturer": "Ms. Nadeesha Thilakarathne"
+    },
+
+    {
+      "Time": "10.30-12.30",
+      "Day": "THURSDAY",
+      "Subject Code": "ICT 4205",
+      "Subject Name": "Current Topics in Information Technology",
+      "Type": "T",
+      "Hall/Location": "S 305",
+      "Lecturer": "Mr. Husni Mohamed"
+    },
+    
+    {
+      "Time": "13.30-15.30",
+      "Day": "THURSDAY",
+      "Subject Code": "ICT 4210",
+      "Subject Name": "Digital Image Processing",
+      "Type": "T",
+      "Hall/Location": "ICT L",
+      "Lecturer": "Mr. Wiraj Wickramaarachchi"
+    },
+    
+    
+
+
+
+    {
+      "Time": "08.30-11.30",
+      "Day": "FRIDAY",
+      "Subject Code": "ICT 4306",
+      "Subject Name": "Data Science",
+      "Type": "T",
+      "Hall/Location": "S 305",
+      "Lecturer": "Ms. Nadeesha Thilakarathne"
+    },
+    {
+      "Time": "13.30-15.30",
+      "Day": "FRIDAY",
+      "Subject Code": "ICT 4211",
+      "Subject Name": "Computer Graphics and Visualization",
+      "Type": "T",
+      "Hall/Location": "Online",
+      "Lecturer": "Ms. Malki Sandamini"
+    }
+  ]
